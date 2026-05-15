@@ -7,9 +7,8 @@ Prototipo navegable de la app móvil de Internaco, distribuidor de maquinaria de
 
 ## Cómo usar
 
-Abre `internaco_v17.html` en cualquier navegador moderno. No requiere servidor ni dependencias.
+Abre https://mariacoronil.github.io/internaco/
 
-Los assets (imágenes JPG, iconos SVG) deben estar en la misma carpeta que el archivo HTML.
 
 ---
 
